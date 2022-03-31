@@ -47,8 +47,8 @@ Zielgruppe dieses Lernbausteins sind alle, die sich einen Überblick über die O
 
 
 # Digitale (Forschungs-)Daten ordnen und strukturieren
-![Bild](\Ordnung_und_Struktur_1296x1128.png) <!--  width="250px"
- height="250px"
+![Bild](\Ordnung_und_Struktur_1296x1128.png) <!--  width="200px"
+ height="200px"
  -->
 Wenn Sie Daten generieren und in Form von Dateien abspeichern und bearbeiten, können diese sehr schnell unübersichtlich werden. Dieser Lernbaustein soll Grundlagen der Dateiorganisation vermitteln und Sie dabei unterstützen, ein strukturiertes Vorgehen beim Anlegen von Verzeichnis- oder Ordnerstrukturen und Dateibenennungen umzusetzen.
 
@@ -65,18 +65,13 @@ Eine der größten Herausforderungen im Umgang mit Forschungsdaten ist die schie
 Vielleicht haben Sie selbst schon mal die Erfahrung gemacht, dass Sie für das Finden einer bestimmten Datei viel Zeit aufwenden mussten? Oder schlimmer noch, dass Sie eine aktuelle Arbeit versehendlich überschrieben oder gelöscht haben?
 Unübersichtliche Odnerstrukturen und Dateibenennungen können Zeit und Nerven kosten. Dies gilt ganz besonders, wenn es durch die Unübersichtlichkeit zu Datenverlusten kommt!
 
-{{1}}
 ![Bild](\2022-03-08_Datenverlust_Comic_CM.jpg) <!--  width="450px"
  height="450px"
 -->
-
-{{1}}
-Behalten Sie den Überblick und nehmen Sie sich etwas Zeit, um ein strukturiertes Vorgehen beim Anlegen von Ordnerstrukturen und der Vergabe von Dateinamen zu verfolgen!
-
-{{2}}
 Sobald Sie beginnen, Ihre Daten beispielsweise durch eine statistische Analyse zu bearbeiten und damit Ihren Rohdatensatz zu verändern, sollten Sie zusätzlich zu Speicherorten, Ordnerstrukturen und Dateinamen auch die Kenntlichmachung des Bearbeitungsstands (Versionierung -> Verweis zu Modul Versionierung) Ihrer Dateien im Blick haben.
 Denken Sie auch über eine begleitende Dokumentation nach, in der Sie Ihre eigenen Regeln und Ihr Vorgehen festhalten.
 
+Behalten Sie den Überblick und nehmen Sie sich etwas Zeit, um ein strukturiertes Vorgehen beim Anlegen von Ordnerstrukturen und der Vergabe von Dateinamen zu verfolgen!
 
 
 ### Ziele einer strukturierten Datei- und Ordnerorganisation
@@ -112,8 +107,6 @@ Was sollte man **neben** einer logischen Ordnerstruktur und strukturierten Datei
 [[X]] Dokumentation des eigenen Vorgehens
 
 ---
-
-
 ![](\FragezeichenTyp.jpg)<!--  width="80px"
    align="right"-->
 
@@ -146,64 +139,65 @@ Nehmen Sie sich daher etwas Zeit und überlegen Sie, welche Vorgehensweise für 
 Ein Patentrezept für eine passende Ordnerstruktur gibt es nicht. Folgende Hinweise können Ihnen aber bei der Entwicklung einer logisch aufgebauten Ordnerstruktur helfen:
 
 
-{{1}}>![](\2022-02-23_Icon_Glühbirne.jpg)<!--  width="50px"
+>![](\2022-02-23_Icon_Glühbirne.jpg)<!--  width="50px"
    align="right"-->**Ordner fassen Dateien mit gemeinsamen Eigenschaften zusammen!**
-{{1}}* Legen Sie Ordner an, die Dateien mit gemeinsamen Eigenschaften gruppieren, so dass sich Informationen zu einem bestimmten Thema an einem Ort befinden. Denken Sie darüber nach, wie Sie Ihre Dateien in Zukunft durchsuchen möchten! Mögliche Kategorien für Ihre Ordner wären beispielsweise Ihre Studienfächer, die zugehörigen Veranstaltungsformen (Vorlesungen, Seminare, Übungen, Praktika)und/oder die Semester, in denen Sie an den Veranstaltungen teilgenommen haben.
-*  Wenn Sie digitale Forschungsdaten, die Sie etwa im Rahmen eines Praktikums oder einer Übung erheben und bearbeiten speichern, dann können Sie diese beispielsweise nach Thema, Teilnehmergruppe, Datenerhebungsmethode, Datum bzw. Zeitraum oder auch nach Art der Dateien (Formate) ordnen.
+* Legen Sie Ordner an, die Dateien mit gemeinsamen Eigenschaften gruppieren, so dass sich Informationen zu einem bestimmten Thema an einem Ort befinden. Denken Sie darüber nach, wie Sie Ihre Dateien in Zukunft durchsuchen möchten! Mögliche Kategorien für Ihre Ordner wären beispielsweise Ihre Studienfächer, die zugehörigen Veranstaltungsformen (Vorlesungen, Seminare, Übungen, Praktika)und/oder die Semester, in denen Sie an den Veranstaltungen teilgenommen haben.
+
+* Wenn Sie digitale Forschungsdaten, die Sie etwa im Rahmen eines Praktikums oder einer Übung erheben und bearbeiten speichern, dann können Sie diese beispielsweise nach Thema, Teilnehmergruppe, Datenerhebungsmethode, Datum bzw. Zeitraum oder auch nach Art der Dateien (Formate) ordnen.
 
 
-{{2}}>![](\2022-02-23_Icon_Glühbirne.jpg)<!--  width="50px"
+>![](\2022-02-23_Icon_Glühbirne.jpg)<!--  width="50px"
    align="right"--> **Verwenden Sie aussagekräftige Ordnernamen!**
-{{2}}* Stellen Sie sicher, dass Sie klare und angemessene Ordnernamen verwenden, die den Inhalt des Ordners prägnant wiedergeben. Sie haben sich eben überlegt, nach welchen Merkmalen Sie Ihre Dateien gruppieren möchten. Formulieren Sie hierzu passende Ordnernamen.
+* Stellen Sie sicher, dass Sie klare und angemessene Ordnernamen verwenden, die den Inhalt des Ordners prägnant wiedergeben. Sie haben sich eben überlegt, nach welchen Merkmalen Sie Ihre Dateien gruppieren möchten. Formulieren Sie hierzu passende Ordnernamen.
 
 
-{{3}}>![](\2022-02-23_Icon_Glühbirne.jpg)<!--  width="50px"
+>![](\2022-02-23_Icon_Glühbirne.jpg)<!--  width="50px"
    align="right"--> **Ordner hierarchisch strukturieren!**
-{{3}}* Entwerfen Sie eine Ordnerstruktur. Beginnen Sie mit einer begrenzten Anzahl von Ordnern für die übergeordneten Themen und legen Sie dann innerhalb dieser Ordner weitere spezifischere Ordner an.
+* Entwerfen Sie eine Ordnerstruktur. Beginnen Sie mit einer begrenzten Anzahl von Ordnern für die übergeordneten Themen und legen Sie dann innerhalb dieser Ordner weitere spezifischere Ordner an.
 
 
-{{4}}>![](\2022-02-23_Icon_Glühbirne.jpg)<!--  width="50px"
+>![](\2022-02-23_Icon_Glühbirne.jpg)<!--  width="50px"
    align="right"--> **Nicht zu viele Unterordner anlegen!**
-{{4}}* Ihr Ablagekonzept sollte besser einfach als komplex sein. Halten Sie daher die Anzahl der Unterordner überschaubar - wenn Sie zu viele Unterordner haben, kann das dies die Navigation erschweren. Andererseits wollen auch nicht zahlreiche Dateien innerhalb eines Ordners durchsuchen müssen, um die gewünschte Datei zu finden. Finden Sie die für Sie stimmige Balance!
+* Ihr Ablagekonzept sollte besser einfach als komplex sein. Halten Sie daher die Anzahl der Unterordner überschaubar - wenn Sie zu viele Unterordner haben, kann das dies die Navigation erschweren. Andererseits wollen auch nicht zahlreiche Dateien innerhalb eines Ordners durchsuchen müssen, um die gewünschte Datei zu finden. Finden Sie die für Sie stimmige Balance!
 
 
-{{5}}>![](\2022-02-23_Icon_Glühbirne.jpg)<!--  width="50px"
+>![](\2022-02-23_Icon_Glühbirne.jpg)<!--  width="50px"
    align="right"--> **Laufende und abgeschlossene Arbeiten trennen!**
-{{5}}* Es kann sehr hilfreich sein, Entwürfe und abgeschlossene Arbeiten in getrennten Ordnern abzulegen. Verschieben Sie die Dateien, an denen Sie nicht mehr arbeiten regelmäßig in einen anderen Ordner oder an einen anderen Ort, z. B. in einen speziellen Archivordner oder auf ein anderes Speichermedium, beispielsweise eine externe Festplatte. So können Sie auch leichter überprüfen und im Auge behalten, was Sie behalten müssen, während Sie weiterarbeiten.
+* Es kann sehr hilfreich sein, Entwürfe und abgeschlossene Arbeiten in getrennten Ordnern abzulegen. Verschieben Sie die Dateien, an denen Sie nicht mehr arbeiten regelmäßig in einen anderen Ordner oder an einen anderen Ort, z. B. in einen speziellen Archivordner oder auf ein anderes Speichermedium, beispielsweise eine externe Festplatte. So können Sie auch leichter überprüfen und im Auge behalten, was Sie behalten müssen, während Sie weiterarbeiten.
 
-{{6}}>![](\2022-02-23_Icon_Glühbirne.jpg)<!--  width="50px"
+>![](\2022-02-23_Icon_Glühbirne.jpg)<!--  width="50px"
    align="right"--> **Rohdaten immer gesondert ablegen!**
-{{6}}* Bewahren Sie Ihre Rohdaten getrennt von den Daten auf, an denen Sie arbeiten: Speichern Sie immer eine "Rohdaten"-Datei, die unverändert bleibt, so dass Sie stets eine Kopie der unveränderten Originaldaten haben! Es ist möglich, dass Sie darauf zurückgreifen müssen.
+* Bewahren Sie Ihre Rohdaten getrennt von den Daten auf, an denen Sie arbeiten: Speichern Sie immer eine "Rohdaten"-Datei, die unverändert bleibt, so dass Sie stets eine Kopie der unveränderten Originaldaten haben! Es ist möglich, dass Sie darauf zurückgreifen müssen.
 
-{{7}}>![](\2022-02-23_Icon_Glühbirne.jpg)<!--  width="50px"
+>![](\2022-02-23_Icon_Glühbirne.jpg)<!--  width="50px"
    align="right"--> **Backup nicht vergessen!**
-{{7}}* Stellen Sie sicher, dass Ihre Dateien, egal ob sie sich auf Ihrem lokalen Laufwerk oder auf einem Netzlaufwerk befinden, regemäßig gesichert werden. (Verweis Lernmodul Backup)
+* Stellen Sie sicher, dass Ihre Dateien, egal ob sie sich auf Ihrem lokalen Laufwerk oder auf einem Netzlaufwerk befinden, regemäßig gesichert werden. (Verweis Lernmodul Backup)
 
-{{8}}>![](\2022-02-23_Icon_Glühbirne.jpg)<!--  width="50px"
+>![](\2022-02-23_Icon_Glühbirne.jpg)<!--  width="50px"
    align="right"--> **Nicht mehr benötigte Dateien löschen!**
-{{8}}* Überprüfung Sie regelmäßig oder am Ende einer abgeschlossenen Arbeit Ihre Dateien und löschen Sie die nicht mehr benötigten Dateien. Tragen Sie sich eine Erinnerung in Ihren Kalender ein, damit Sie es nicht vergessen!
+* Überprüfung Sie regelmäßig oder am Ende einer abgeschlossenen Arbeit Ihre Dateien und löschen Sie die nicht mehr benötigten Dateien. Tragen Sie sich eine Erinnerung in Ihren Kalender ein, damit Sie es nicht vergessen!
 
-{{9}}>![](\2022-02-23_Icon_Glühbirne.jpg)<!--  width="50px"
+>![](\2022-02-23_Icon_Glühbirne.jpg)<!--  width="50px"
    align="right"--> **Gegebenenfalls eine Zwischenablage anlegen!**
-{{9}}* Für Dokumente, die Sie (noch) nicht klar einem Ihrer Verzeichnisse zuordnen können, kann ein Ordner „Temp“ oder „Noch einzuordnen“ angelegt werden. Eine solche Zwischenablage sollte aber unbedingt regelmäßig aufgeräumt werden.
+* Für Dokumente, die Sie (noch) nicht klar einem Ihrer Verzeichnisse zuordnen können, kann ein Ordner „Temp“ oder „Noch einzuordnen“ angelegt werden. Eine solche Zwischenablage sollte aber unbedingt regelmäßig aufgeräumt werden.
 
-{{10}}>![](\2022-02-23_Icon_Glühbirne.jpg)<!--  width="50px"
+>![](\2022-02-23_Icon_Glühbirne.jpg)<!--  width="50px"
    align="right"--> **Ausprobieren und anpassen!**
-{{10}}* Versuchen Sie unter Berücksichtigung der oben genannten Hinweise eine Ordnerstruktur zu entwickeln, deren Ordnung Ihren persönlichen Bedürfnissen entspricht. Es ist ggf. sinnvoll, das Konzept anhand einiger Beispielfälle auszuprobieren. Erst dann – ggf. nach entsprechenden Änderungen – sollten Sie mit einer Umsetzung in größerem Stil beginnen. So vermeiden Sie, zu einem späteren Zeitpunkt Ihre Ordnerstruktur eventuell komplett umbauen zu müssen. Überprüfen Sie auch im weiteren Verlauf, ob Ihre Ablagestruktur noch passt. Ein Hinweis auf Überarbeitungsbedarf könnte die Zahl der Dateien sein, die nicht eindeutig zugeordnet werden können (und daher ggf. in der Zwischenablage landen). Halten Sie in Ihrer Dokumentation auch eventuelle Anpassungen fest.
+* Versuchen Sie unter Berücksichtigung der oben genannten Hinweise eine Ordnerstruktur zu entwickeln, deren Ordnung Ihren persönlichen Bedürfnissen entspricht. Es ist ggf. sinnvoll, das Konzept anhand einiger Beispielfälle auszuprobieren. Erst dann – ggf. nach entsprechenden Änderungen – sollten Sie mit einer Umsetzung in größerem Stil beginnen. So vermeiden Sie, zu einem späteren Zeitpunkt Ihre Ordnerstruktur eventuell komplett umbauen zu müssen. Überprüfen Sie auch im weiteren Verlauf, ob Ihre Ablagestruktur noch passt. Ein Hinweis auf Überarbeitungsbedarf könnte die Zahl der Dateien sein, die nicht eindeutig zugeordnet werden können (und daher ggf. in der Zwischenablage landen). Halten Sie in Ihrer Dokumentation auch eventuelle Anpassungen fest.
 
-{{11}}>![](\2022-02-23_Icon_Glühbirne.jpg)<!--  width="50px"
+>![](\2022-02-23_Icon_Glühbirne.jpg)<!--  width="50px"
    align="right"--> **Konsequent bleiben!**
-{{11}}* Seien Sie konsequent - wenn Sie ein Ordnungs- und Benennungsschema für Ihre Dateiablage entwickeln, ist es wichtig, dass Sie sich an eine einmal festgelegte Methode halten. Versuchen Sie nach Möglichkeit, sich möglichst früh ein Ordnungsschema zu überlegen. Dokumentieren Sie Ihr Ordnungs- und Bennungsschema! Halten Sie in Ihrer Dokumentation auch eventuelle Anpassungen fest.
+* Seien Sie konsequent - wenn Sie ein Ordnungs- und Benennungsschema für Ihre Dateiablage entwickeln, ist es wichtig, dass Sie sich an eine einmal festgelegte Methode halten. Versuchen Sie nach Möglichkeit, sich möglichst früh ein Ordnungsschema zu überlegen. Dokumentieren Sie Ihr Ordnungs- und Bennungsschema! Halten Sie in Ihrer Dokumentation auch eventuelle Anpassungen fest.
 
-{{12}}>![](\2022-02-23_Icon_Glühbirne.jpg)<!--  width="50px"
+>![](\2022-02-23_Icon_Glühbirne.jpg)<!--  width="50px"
    align="right"--> **Für gemeinsam genutzte Dateien Regeln festlegen!**
-{{12}}* Wenn Sie Ihre Daten und Dateien gemeinsam mit Kommiliton*innen nutzen sollten Sie gemeinsam Regeln zum Umgang mit den Daten festlegen. Entwickeln Sie eine gemeinsame Ordnerstruktur, eine gemeinsame Dateinbenennungskonvention und legen Sie Zugriffsrechte fest. Dokumentieren Sie Ihre gemeinsamen Regeln!
+* Wenn Sie Ihre Daten und Dateien gemeinsam mit Kommiliton*innen nutzen sollten Sie gemeinsam Regeln zum Umgang mit den Daten festlegen. Entwickeln Sie eine gemeinsame Ordnerstruktur, eine gemeinsame Dateinbenennungskonvention und legen Sie Zugriffsrechte fest. Dokumentieren Sie Ihre gemeinsamen Regeln!
 
 ### Beispiel Ordnnerstruktur
 
-Hier sollen hübsche Beispiele für Ordnerstrukturen hin.
+Folgende Beispiele sollen Ihnen als Orientierunghilfe für die Erstellung eigener Ordnerstrukturen dienen:
 
-![](\Ordner.jpg)
+![](\Beispiel_Verzeichnis.png "Beispiel Orderstruktur für eine Übung, in welcher Daten erhoben, ausgewertet und in einer Hausarbeit und/oder einem Poster zusammengesafft und beschreiben werden.")
 
 
 ### Selbsttest
@@ -230,13 +224,13 @@ Hier sollen hübsche Beispiele für Ordnerstrukturen hin.
 ## Dateien strukturiert benennen
 >Platzhalter für Comic_final.doc
 
-Wild vergebene Dateinamen können uns um den Verstand bringen! Beispielsweise, wenn wir verzweifelt nach der wirklich aktuellen Version der Hausarbeit suchen, die wir spätestens morgen früh abgeben müssen! Schlimmer noch, wenn  erst beim Ausdrucken im Copy-Shop Ihrer Datei auffällt, dass Sie gerade die Version drucken, in der diese eine wichtige Änderung noch nicht eingearbeitet ist.
-
-Es empfiehlt sich daher, klare Regeln aufzustellen, nach denen Sie Ihre Dateien benennen.
-
 Jede Datei, an der Sie arbeiten und die Sie speichern muss in dem Ordner, in dem sie gespeichert wird, einen eindeutigen Namen besitzen. Auf diese Weise wird sichergestellt, dass die Datei einen eindeutigen und individuellen Pfadnamen innerhalb des Dateisystems hat.
 
 > Pfad-Beispiel?  
+
+Wild vergebene Dateinamen können uns um den Verstand bringen! Beispielsweise, wenn wir verzweifelt nach der wirklich aktuellen Version der Hausarbeit suchen, die wir spätestens morgen früh abgeben müssen! Schlimmer noch, wenn  erst beim Ausdrucken im Copy-Shop auffällt, dass Sie gerade eine alte Version drucken, in der diese eine wichtige Änderung noch nicht eingearbeitet ist.
+
+Es empfiehlt sich daher, klare Regeln aufzustellen, nach denen Sie Ihre Dateien benennen.
 
 Es ist nicht möglich zwei Dateien mit exakt dem selben Namen in ein und demselben Ordner zu speichern, da die Pfadnamen beider Dateien in einem solchen Fall identisch wären. Zwei Datei mit einer exakt identischen Benennung in zwei unterschiedlichen Ordnern zu speichern ist dagegen theoretisch möglich, da in dem Fall die Pfadnamen beider Dateien weiterhin und individuell sind. Empfehenswert ist eine identische Dateibenennung in unterschiedlichen Ordnern jedoch nicht, da sonst viel zu sehr darauf geachtet werden muss, an welcher Datei genau gerade gearbeitet wird.
 
@@ -246,42 +240,62 @@ Ein Regelwerk für die Benennung von Dateien wird als **Dateibenennungskonventio
 
 Dateien mit einer Namenskonvention bieten eine **Vorschau auf den Inhalt**, sind **logisch geordnet** (z.B. nach Datum jjjj-mm-tt), geben **Hinweise auf** die verantwortlichen Ersteller*innen* und Bearbeiter*innen* sowie über den Verlauf der Änderungen an der Datei. Dateinamen sollten stets so **kurz wie möglich** aber so **lang wie nötig sein!**
 
-![](\2022-02-23_Icon_Glühbirne.jpg)<!--  width="60px"
-   align="right"-->
-
+---
 **Beachten Sie die folgenden Richtlinien beim Benennen Ihrer Dateien:**
 ---
 
-{{1}}> **Nutzen Sie weniger als 32 Zeichen (besser noch weniger) für Ihre Dateinamen!**
-{{1}}* Lange Dateinamen (und zu viele Unterordner) sollten vermieden werden. Sie vermeiden damit die zulässige Pfadlänge Ihres Betriebssystems zu überschreiten (Windows erlaubt maximal 256 Zeichen).
+> ![](\2022-02-23_Icon_Glühbirne.jpg)<!--  width="60px"
+   align="right"-->**Legen Sie frühzeitig eine Konvention fest!**
+* Es ist wichtig, frühzeitig eine Dateibenennungskonvention zu erstellen. Machen Sie sich Gedanken bevor Sie mit dem Sammeln von Dateien oder Daten beginnen, um einen Rückstau von unorganisierten Inhalten zu vermeiden, der zu verlegten oder verlorenen Daten führen kann! Dies gilt insbesondere für kollaborativ genutzte Dateien.
 
-{{2}}> **Dateinamen sollten deutlich auf den Inhalt der Datei hinweisen!**
-{{2}}* Ihr Dateiname sollte den Inhalt der Datei möglichst gut beschreiben, gleichzeitig aber nicht zu lang sein. Entwerfen Sie ein System von Abkürzungen (z. B. HA für Hausarbeit), dokumentieren Sie Ihre Abkürzungen und wenden Sie sie konsequent an.
+> ![](\2022-02-23_Icon_Glühbirne.jpg)<!--  width="60px"
+   align="right"-->**Unterschiedliche Konventionen für verschiedene Dateitypen sind erlaubt!**
+* Bestimmen Sie, für welche Dateigruppe Ihre Namenskonvention gelten soll. Sie können unterschiedliche Konventionen für verschiedene Dateigruppen verwenden.
+* Dokumentieren Sie Ihre Konventionen entsprechend - beispielsweise: Diese Konvention wird für alle meine Mikroskopiedateien gelten, vom Rohbild bis zum bearbeiteten Bild.)
 
-{{3}}> **Verwenden Sie grundsätzlich keine unspezifischen Dateinamen!**
-{{3}}* Dateinamen wie etwa "HausarbeitNeu" oder "HausarbeitFinal" sind sehr unspezifisch und angehängte Zusätze wie "Neu" oder "Final" sehr schnell nicht mehr aktuell. Nutzen Sie spezifischere Bezeichnungen für den Inhalt und Versionsbezeichnungen für den Bearbeitungsstand (z. B. HA-SeminarXYZ-v01.docx)
+> ![](\2022-02-23_Icon_Glühbirne.jpg)<!--  width="60px"
+   align="right"-->**Prüfen Sie, ob bereits etablierte Konventionen existieren!**
+* Prüfen Sie, ob es in Ihrem Fachgebiet oder Ihrer Gruppe bereits etablierte Konventionen für die Benennung von Dateien gibt. Falls ja, orientieren Sie sich an den etablierten Konventionen.
 
-{{4}}> **Nutzen Sie keine Sonderzeichen, Umlaute oder Lehrzeichen in Dateinamen!**
-{{4}}* Die Nutzung von Umlauten und Leerzeichen in Dateinamen sind zwar erlaubt, aber nicht empfohlen, da nicht alle Systeme mit diesen Zeichen umgehen können, wodurch Fehler auftreten können.
-{{4}}* Auf Sonderzeichen, wie etwa &, %, !, [, $, >, <, usw. sollten Sie generell verzichten, da diese Zeichen Funktionen in Betriebssystemen oder Programmen haben können.
 
-{{5}}> **Erlaubte Sonderzeichen Unterstrich ( _ ) und Bindestrich ( - )**
-{{5}}* Für eine bessere Lesbarkeit können Sie die Zeichen Unterstrich (_) und Bindestrich (-) verwenden. Auch Groß- und Kleinschreibung kann im Sinne einer besseren Lesbarkeit verwendet werden.
 
-<!-- hier vielleicht beispiele einbringen?-->
 
-{{6}}> **Führende Null(en) bei Nummerierungen verwenden!**
-{{6}}* Wenn Sie sequentielle Nummern verwendet möchten, so sollten stets führende Nullen verwendet werden: für 1-10 :01-10; für 1-100: 001-100
+> ![](\2022-02-23_Icon_Glühbirne.jpg)<!--  width="60px"
+   align="right"-->**Nutzen Sie weniger als 32 Zeichen (besser noch weniger) für Ihre Dateinamen!**
+* Lange Dateinamen (und zu viele Unterordner) sollten vermieden werden. Sie vermeiden damit die zulässige Pfadlänge Ihres Betriebssystems zu überschreiten (Windows erlaubt maximal 256 Zeichen).
 
-{{7}}> **Datumsangaben nach der ISO 8601**
-{{7}}* Datumsangaben, die der ISO 8601 als YYYY-MM-DD oder YYYYMMDD ordnen sich selbst. (ISO 8601)
+> ![](\2022-02-23_Icon_Glühbirne.jpg)<!--  width="60px"
+   align="right"-->**Dateinamen sollten deutlich auf den Inhalt der Datei hinweisen!**
+* Ihr Dateiname sollte den Inhalt der Datei möglichst gut beschreiben, gleichzeitig aber nicht zu lang sein. Entwerfen Sie ein System von Abkürzungen (z. B. HA für Hausarbeit), dokumentieren Sie Ihre Abkürzungen und wenden Sie sie konsequent an.
+
+> ![](\2022-02-23_Icon_Glühbirne.jpg)<!--  width="60px"
+   align="right"-->**Verwenden Sie grundsätzlich keine unspezifischen Dateinamen!**
+* Dateinamen wie etwa "HausarbeitNeu" oder "HausarbeitFinal" sind sehr unspezifisch und angehängte Zusätze wie "Neu" oder "Final" sehr schnell nicht mehr aktuell. Nutzen Sie spezifischere Bezeichnungen für den Inhalt und Versionsbezeichnungen für den Bearbeitungsstand (z. B. HA-SeminarXYZ-v01.docx)
+
+>![](\2022-02-23_Icon_Glühbirne.jpg)<!--  width="60px"
+   align="right"-->**Nutzen Sie keine Sonderzeichen, Umlaute oder Lehrzeichen in Dateinamen!**
+* Die Nutzung von Umlauten und Leerzeichen in Dateinamen sind zwar erlaubt, aber nicht empfohlen, da nicht alle Systeme mit diesen Zeichen umgehen können, wodurch Fehler auftreten können.
+* Auf Sonderzeichen, wie etwa \*, \~, \_, \#, \{, \}, \[, \], \|, \`, \$, \@, \\ usw. sollten Sie generell verzichten, da diese Zeichen Funktionen in Betriebssystemen oder Programmen haben können.
+
+>![](\2022-02-23_Icon_Glühbirne.jpg)<!--  width="60px"
+   align="right"--> **Erlaubte Sonderzeichen Unterstrich ( _ ) und Bindestrich ( - )**
+* Für eine bessere Lesbarkeit können Sie die Zeichen Unterstrich (_) und Bindestrich (-) verwenden. Auch Groß- und Kleinschreibung kann im Sinne einer besseren Lesbarkeit verwendet werden.(z. B. Inhalt\_der\_Datei\_01.docx oder Inhalt-der-Datei-2022-01-15-v01.docx)
+
+>![](\2022-02-23_Icon_Glühbirne.jpg)<!--  width="60px"
+   align="right"--> **Führende Null(en) bei Nummerierungen verwenden!**
+* Wenn Sie sequentielle Nummern verwendet möchten, so sollten stets führende Nullen verwendet werden: für 1-10 :01-10; für 1-100: 001-100
+
+>![](\2022-02-23_Icon_Glühbirne.jpg)<!--  width="60px"
+   align="right"--> **Datumsangaben nach der ISO 8601**
+* Eine chronologische Sortierung ist bei den Dateien absolut sinnvoll, die sich z. B. durch das Erstelldatum unterscheiden, ansonsten aber Dokumente, Tabellen oder Präsentationen zu einem immer wiederkehrenden Thema sind.
+* Datumsangaben sollten stets der ISO 8601 folgen (YYYY-MM-DD oder YYYYMMDD). Wenn Sie Ihnen Dateinamen mit einer der ISO 8601 folgenden Datumsangabe beginnen, besteht die Möglichkeit automatisch nach Dateinamen sortieren zu lassen.
 
 ### Beispiele Dateibenennungen
 <!-- hier neue gute und schlechte vorstellen? weil in den beschreibungen waren ja schon berspiele. und doppelt sich das jetzt nicht auch etwas mit dem selbsttest? -->
 
 
 ### Selbsttest
-**Welche der folgenden Dateinamen halten die Richtlinien für gute Dateinamen ein?** (Mehrfachauswahl möglich)
+**Welche dieser Beispiele folgen einer guten Benennungskonvention?** (Mehrfachauswahl möglich)
 
 [[X]] 002-ParameterX-2019-10-19.xlsx
 [[ ]] 200319-InterviewMA.docx
@@ -291,6 +305,24 @@ Dateien mit einer Namenskonvention bieten eine **Vorschau auf den Inhalt**, sind
 
 ## Dokumentation von Benennungskonventionen
 Mit Hilfe einer geeigneten Dokumentation können Sie für sich selbst und für andere festhalten, welchen Regeln Ihre Ordnerstruktur und Ihre Dateibenennungen folgen, so dass Sie und andere kurz-, mittel-, und langfristig Ihre eigenen Strukturen nachvollziehen können.
+
+Dokumentieren Sie die Namenskonventionen in einer **README-Datei** und bewahren Sie sie zusammen mit den Dateien auf für die die jeweilige Dokumentation gelten soll. Ein guter Speicherort für die README-Datei ist die oberste zugehörige Ordnerebene.
+
+README-Dateien sollten stets in einem Format angelegt werden, das einfach und schnell lesbar ist. Eine reine Textdatei ist für eine Dokumentation vollkommen ausreichend. Empfehenswerte Formate für Ihre README-Dateien sind beispielweise reine Textdateien (.txt), Markdown-Dateien (.md) oder Rich-Text-Dateien (.rtf). Diese Formate sind interoperabel und benötigen kein spezielles Programm, sondern können von jedem beliebigen Texteditor geöffnet werden.
+
+Informationen in den Dateinamen, die Sie über Abkürzungen kodieren, sollten Sie unbedingt in übersichtlicher Form in Ihrer Dokumentation festhalten.
+
+### Arbeitsblatt: Dokumentation von Dateibenennungskonventionen
+
+Bearbeiten Sie das Arbeitsblatt "Dokumentation von Dateibenennungskonventionen" in einem von Ihnen bevorzugten Format.
+
+Das vollständige bearbeitete Arbeitsblatt eignet sich als Dokumentation für Ihre Benennungskonventionen und kann als README gemeinsam mit den zugehörigen Dateien abgespeichert werden!
+
+>Arbeitsblatt "Dokumentation von Dateibenennungskonventionen" im txt-Format: <A HREF="Ordnung_und_Stuktur\2022_AB_DokuDateibenennung.txt">2022\_AB\_DokuDateibenennung.txt</A>
+
+>Arbeitsblatt "Dokumentation von Dateibenennungskonventionen" im rtf-Format: <A HREF="Ordnung_und_Stuktur\2022_AB_DokuDateibenennung.rtf">2022\_AB\_DokuDateibenennung.rtf</A>
+
+>Arbeitsblatt "Dokumentation von Dateibenennungskonventionen" im md-Format: <A HREF="Ordnung_und_Stuktur\2022_AB_DokuDateibenennung.rtf">2022\_AB\_DokuDateibenennung.md</A>
 
 ## Tools
 
@@ -349,3 +381,7 @@ https://library.bath.ac.uk/research-data/working-with-data/organising-data
 https://www.data.cam.ac.uk/data-management-guide/organising-your-data
 
 https://meindigitalesarchiv.de/infos-und-tools/dateiablage-und-dateinamen/
+
+https://datamanagement.hms.harvard.edu/collect/file-naming-conventions
+
+https://datacarpentry.org/rr-organization1/
