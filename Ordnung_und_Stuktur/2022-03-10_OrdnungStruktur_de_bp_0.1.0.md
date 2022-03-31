@@ -318,7 +318,7 @@ Bearbeiten Sie das Arbeitsblatt "Dokumentation von Dateibenennungskonventionen" 
 
 Das vollständige bearbeitete Arbeitsblatt eignet sich als Dokumentation für Ihre Benennungskonventionen und kann als README gemeinsam mit den zugehörigen Dateien abgespeichert werden!
 
->Arbeitsblatt "Dokumentation von Dateibenennungskonventionen" im txt-Format: <a download="2022_AB_DokuDateibenennung.txt" href="\2022_AB_DokuDateibenennung.txt" title="\2022_AB_DokuDateibenennung.txt"></a>
+>Arbeitsblatt "Dokumentation von Dateibenennungskonventionen" im txt-Format: <a href="\2022_AB_DokuDateibenennung.txt" download="2022_AB_DokuDateibenennung.txt"></a>
 
 
 >Arbeitsblatt "Dokumentation von Dateibenennungskonventionen" im rtf-Format: <A HREF="\2022_AB_DokuDateibenennung.rtf">2022\_AB\_DokuDateibenennung.rtf</A>
