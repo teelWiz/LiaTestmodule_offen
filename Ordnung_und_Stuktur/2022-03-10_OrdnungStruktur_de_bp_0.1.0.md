@@ -320,7 +320,7 @@ Das vollständige bearbeitete Arbeitsblatt eignet sich als Dokumentation für Ih
 
 >Arbeitsblatt "Dokumentation von Dateibenennungskonventionen" im txt-Format: <a href="\2022_AB_DokuDateibenennung.txt" download>Click here to download</a>
 
->Arbeitsblatt "Dokumentation von Dateibenennungskonventionen" im rtf-Format: <A HREF="\2022_AB_DokuDateibenennung.rtf">2022\_AB\_DokuDateibenennung.rtf</A>
+>Arbeitsblatt "Dokumentation von Dateibenennungskonventionen" im rtf-Format: <A HREF="\2022_AB_DokuDateibenennung.rtf" download>2022\_AB\_DokuDateibenennung.rtf</A>
 
 >Arbeitsblatt "Dokumentation von Dateibenennungskonventionen" im md-Format: <A HREF="\2022_AB_DokuDateibenennung.rtf">2022\_AB\_DokuDateibenennung.md</A>
 
