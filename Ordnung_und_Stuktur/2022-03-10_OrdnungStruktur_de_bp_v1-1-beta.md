@@ -612,11 +612,11 @@ Bearbeiten Sie das Arbeitsblatt "Dokumentation von Dateibenennungskonventionen" 
 
 Das vollständige bearbeitete Arbeitsblatt eignet sich als Dokumentation für Ihre Benennungskonventionen und kann als README gemeinsam mit den zugehörigen Dateien abgespeichert werden!
 
->Arbeitsblatt "Dokumentation von Dateibenennungskonventionen" im txt-Format: <A HREF="Ordnung_und_Stuktur\Download-Dateien\AB_DokuDateibenennung-v1_2022.md" target="_blank">2022\_AB\_DokuDateibenennung.txt</A>
+>Arbeitsblatt "Dokumentation von Dateibenennungskonventionen" im txt-Format: <A HREF="Download-Dateien\AB_DokuDateibenennung-v1_2022.md" target="_blank">2022\_AB\_DokuDateibenennung.txt</A>
 
->Arbeitsblatt "Dokumentation von Dateibenennungskonventionen" im rtf-Format: <A HREF="Ordnung_und_Stuktur\Download-Dateien\AB_DokuDateibenennung-v1_2022.rtf" target="_blank">2022\_AB\_DokuDateibenennung.rtf</A>
+>Arbeitsblatt "Dokumentation von Dateibenennungskonventionen" im rtf-Format: <A HREF="Download-Dateien\AB_DokuDateibenennung-v1_2022.rtf" target="_blank">2022\_AB\_DokuDateibenennung.rtf</A>
 
->Arbeitsblatt "Dokumentation von Dateibenennungskonventionen" im md-Format: <A HREF="Ordnung_und_Stuktur\Download-Dateien\AB_DokuDateibenennung-v1_2022.md" target="_blank">2022\_AB\_DokuDateibenennung.md</A>
+>Arbeitsblatt "Dokumentation von Dateibenennungskonventionen" im md-Format: <A HREF="Download-Dateien\AB_DokuDateibenennung-v1_2022.md" target="_blank">2022\_AB\_DokuDateibenennung.md</A>
 
 ## Umbenennungstools
 Es kann vorkommen, dass Sie mehrere Dateien gleichzeitig umbenennen möchten.
