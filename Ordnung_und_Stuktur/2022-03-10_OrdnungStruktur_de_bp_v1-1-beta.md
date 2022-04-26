@@ -612,13 +612,11 @@ Bearbeiten Sie das Arbeitsblatt "Dokumentation von Dateibenennungskonventionen" 
 
 Das vollständige bearbeitete Arbeitsblatt eignet sich als Dokumentation für Ihre Benennungskonventionen und kann als README gemeinsam mit den zugehörigen Dateien abgespeichert werden!
 
->Arbeitsblatt "Dokumentation von Dateibenennungskonventionen" im txt-Format: <A HREF="Download-Dateien\AB_DokuDateibenennung-v1_2022.txt" target="_blank">2022\_AB\_DokuDateibenennung.txt</A>
+>Arbeitsblatt "Dokumentation von Dateibenennungskonventionen" im txt-Format: <A HREF="Download-Dateien\AB_DokuDateibenennung-v1_2022.txt" download>2022\_AB\_DokuDateibenennung.txt</A>
 
->Arbeitsblatt "Dokumentation von Dateibenennungskonventionen" im rtf-Format: <A HREF="Download-Dateien\AB_DokuDateibenennung-v1_2022.rtf" target="_blank">2022\_AB\_DokuDateibenennung.rtf</A>
+>Arbeitsblatt "Dokumentation von Dateibenennungskonventionen" im rtf-Format: <A HREF="Download-Dateien\AB_DokuDateibenennung-v1_2022.rtf" download>2022\_AB\_DokuDateibenennung.rtf</A>
 
->Arbeitsblatt "Dokumentation von Dateibenennungskonventionen" im md-Format: <A HREF="Download-Dateien\AB_DokuDateibenennung-v1_2022.md" target="_blank">2022\_AB\_DokuDateibenennung.md</A>
-
->Arbeitsblatt "Dokumentation von Dateibenennungskonventionen" im txt-Format: <A HREF="https://github.com/BrittaP/LiaTestmodule_offen/blob/5803d5dae8f374174e8ae9d6c1443fbd5e01aebd/Ordnung_und_Stuktur/Download-Dateien/AB_DokuDateibenennung-v1_2022.txt" target="_blank">2022\_AB\_DokuDateibenennung.txt</A>
+>Arbeitsblatt "Dokumentation von Dateibenennungskonventionen" im md-Format: <A HREF="Download-Dateien\AB_DokuDateibenennung-v1_2022.md" download>2022\_AB\_DokuDateibenennung.md</A>
 
 ## Umbenennungstools
 Es kann vorkommen, dass Sie mehrere Dateien gleichzeitig umbenennen möchten.
